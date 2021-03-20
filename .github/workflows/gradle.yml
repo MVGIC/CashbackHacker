@@ -7,7 +7,7 @@ on:
   push:
     branches: [ master, testng ]
   pull_request:
-    branches: [ master,testng ]
+    branches: [ master, testng ]
 
 jobs:
   build:
