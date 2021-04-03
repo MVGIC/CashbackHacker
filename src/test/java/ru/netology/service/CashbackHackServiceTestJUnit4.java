@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class CashbackHackServiceTest {
+public class CashbackHackServiceTestJUnit4 {
 
     @Test
     public void shouldRemain300IfAmountIs1700(){
